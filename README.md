@@ -15,5 +15,5 @@
 
 
 
-# note : this is work on window and andriod
+# note : this execution code is work on window for not for mobile it diffrent
 
