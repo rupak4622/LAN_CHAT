@@ -11,7 +11,7 @@
 
 ### start the client
 #### gcc client.c -o client
-####./client
+#### ./client
 
 
 # note : this is work on window and andriod
