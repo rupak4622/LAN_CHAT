@@ -6,11 +6,11 @@
 ## 🚀 How to Run
 ### Start the Server
 
-#### gcc server.c -o server
+#### gcc server.c -o server.exe -lws2_32
 #### ./server
 
 ### start the client
-#### gcc client.c -o client
+#### gcc client.c -o client.exe -lws2_32
 #### ./client
 
 
