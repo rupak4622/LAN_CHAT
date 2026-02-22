@@ -6,12 +6,12 @@
 ## 🚀 How to Run
 ### Start the Server
 
-gcc server.c -o server
-./server
+#### gcc server.c -o server
+#### ./server
 
 ### start the client
-gcc client.c -o client
-./client
+#### gcc client.c -o client
+####./client
 
 
 # note : this is work on window and andriod
